@@ -1,3 +1,5 @@
+![tests](https://github.com/SattlerMinion/nib/actions/workflows/tests.yml/badge.svg)
+
 # CS 304 – Unit Testing (Nov 2)
 
 Setup (once):
